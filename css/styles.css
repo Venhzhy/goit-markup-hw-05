@@ -736,6 +736,10 @@ address {
     margin-bottom: 8px;
 }
 
+.modal-filed.backdown {
+    margin-bottom: 16px;
+}
+
 .modal-social-icon {
     fill: #111111;
     position: absolute;
@@ -755,14 +759,11 @@ address {
 }
 
 .checkbox-text {
-    display: inline-flex;
-    align-items: center;
     font-weight: 400;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
-    flex-wrap: wrap;
 }
 
 .link-text {
@@ -810,7 +811,6 @@ address {
     letter-spacing: 0.04em;
     color: #fff;
     border-radius: 4px;
-    border: 1px dashed #9747ff;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     border: none;
     cursor: pointer;
