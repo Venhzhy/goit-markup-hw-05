@@ -685,6 +685,7 @@ address {
 
 .modal-text-area {
     border-color: #4D5AE5;
+    border: 1px solid rgba(46, 47, 66, 0.4)
 }
 
 .modal-input {
@@ -733,7 +734,7 @@ address {
 }
 
 .modal-filed {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
 
 .modal-social-icon {
